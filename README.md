@@ -32,9 +32,11 @@ DE ESTE SOFTWARE, INCLUSO SI SE HA ADVERTIDO DE LA POSIBILIDAD DE DICHOS DAÑOS.
 
 CONTRATO DE LICENCIA DE SOFTWARE PROPIETARIO Y PROPIEDAD INTELECTUAL
 
-Copyright (c) 2026 
-[Business Solutions Entreprise HPE Parnet Associatte  y el Desarollador del proyecto Ing Cisco systems Leonardo Daza Blanco ]. 
-Todos los derechos reservados.
+Copyright (c) 2026 Todos los derechos reservados.Corresponde legalmente  solo a
+
+[Business Solutions Entreprise HPE Parnet Associatte  y el Desarollador del proyecto Ing Cisco systems Leonardo Daza Blanco ].
+
+
 
 
 
@@ -99,7 +101,7 @@ EN NINGÚN CASO LOS AUTORES SERÁN RESPONSABLES DE NINGUNA RECLAMACIÓN, DAÑOS 
 
 
 usted como Usuario Acepta de forma diliengia , e irrevocable 
-y Asume su compromiso de cumplir y aceptar  a Cabalidad Con este docomunto Legal Registrado por completo
+y Asume su compromiso de cumplir y aceptar  a Cabalidad Con este Documento Legal Registrado por completo
 al usar cualquier producto y/o Servicios por nosotros ofrecido Legalmente y actuante de buena Fe 
 a no violar ninguna clausula ni garantia aca Señalada
 
