@@ -32,22 +32,76 @@ DE ESTE SOFTWARE, INCLUSO SI SE HA ADVERTIDO DE LA POSIBILIDAD DE DICHOS DAÑOS.
 
 CONTRATO DE LICENCIA DE SOFTWARE PROPIETARIO Y PROPIEDAD INTELECTUAL
 
-Copyright (c) 2026 [Business Solutions Entreprise HPE Parnet Associatte  y El Ing Cisco systems Leonardo Daza Blanco ]. Todos los derechos reservados.
+Copyright (c) 2026 
+[Business Solutions Entreprise HPE Parnet Associatte  y el Desarollador del proyecto Ing Cisco systems Leonardo Daza Blanco ]. 
+Todos los derechos reservados.
 
-Por la presente se otorga permiso al comprador legítimo ("Licenciatario") para utilizar este software y los archivos de diseño web asociados (el "Software"), sujeto a las siguientes condiciones:
 
-1. PROPIEDAD INTELECTUAL Limitada: El uso del Software, su código fuente, diseño de interfaz (UI/UX),solo por uso legitmo de adquisicion y mientras el software este abierto y usando el software / app / y/o el sitio Web 
-2.  el Software , Codigo Completo , textos,contenido , imágenes y estructura son propiedad exclusiva del Licenciante y están protegidos por las leyes internacionales de derechos de autor.
 
-3. RESTRICCIONES DE USO: 
-- El Licenciatario NO puede copiar, modificar, sublicenciar, vender, alquilar, distribuir ni transferir el Software ni ninguna de sus partes a terceros. 
-- El Licenciatario NO puede realizar ingeniería inversa, descompilar ni desensamblar el código fuente del Software. 
-- Queda estrictamente prohibido el uso del diseño visual y la interfaz gráfica para la creación de proyectos derivados o competidores.
+Por la presente se otorga permiso al comprador legítimo ("Licenciatario") 
+para utilizar Legalmente este software y los archivos de diseño web asociados ( a el "Software"), sujeto a las siguientes condiciones:
 
-3. CANAL DE DISTRIBUCIÓN: Este software se distribuye exclusivamente a través de los canales oficiales del autor en GitHub. Cualquier copia obtenida por otros medios se considera ilegal.
-4. y un pago de la cantidad de 72 M USD en daños y perjuicios de derechos Legales sobre el y/o Los Software y/o app u otros productos por Nosotros desarollados 
+1. PROPIEDAD INTELECTUAL Limitada y restringida De Uso :
+2. El uso del Software, su código fuente,como diseño de interfaz (UI/UX),esta Restringido a
+3. solo por uso legitmo de adquisicion y mientras el software se este ejecutando y usando el software / app / y/o el sitio Web en su(s)  Dispositivo(s)
+4. para cumplir con la funcion para la cual fue credao 
+5. el Software , Codigo Completo , textos,contenido
+6. No podra ser ofuscado con ningun Codigo ni sometido a Ingenieria Inversa por ninguna persona
+7. ,las distintas version de software estan incluidos en los derechos legales de Ley internacionales
+8.  
+9. imágenes y estructura son propiedad exclusiva del Licenciante y están protegidos por las leyes internacionales de derechos de autor.
+10. El desarollador y/o La Empresa antes Descripta podra modificar Terminos / clausula / y/o contenido de todos
+11.  sus producto y/o limitar oferta sin previo aviso manteniendo , la Unica garantia de los Desarollos Ya Existente Hasta la
+12. culminacion de Sesion y/o servicio , como tiempo estipulado en la adquisicion de cualquier solucion Adquirida
+    
 
-EL SOFTWARE SE PROPORCIONA "TAL CUAL", SIN GARANTÍA DE NINGÚN TIPO, EXPRESA O IMPLÍCITA. EN NINGÚN CASO LOS AUTORES SERÁN RESPONSABLES DE NINGUNA RECLAMACIÓN, DAÑOS U OTRA RESPONSABILIDAD LEGALES.
+
+13. RESTRICCIONES DE USO:
+14. 
+- El Licenciatario NO puede copiar, modificar, sublicenciar, vender, alquilar, distribuir ni transferir el Software ni ninguna de sus partes
+-  a terceros.La Licencia es de Uso comercial Limitada ( Solo por El tiempo y Uso estipulado en La Garantia de Transferecia Temporal De uso
+-   
+- El Licenciatario NO puede realizar ingeniería inversa,, ni ofuscar el Codigo, descompilar
+-  ni desensamblar el código fuente del y/o los  Software. la compra solo le da Derecho legales usarlos en Los dispositivos
+-   Permitidos y el Tiempo acordado ,Su uso es solo Comercial y de utilidad para lo cual fue diseñado principalmente sin Ningun tipo de  Usos Dañinos a 3eros
+-   
+- Queda estrictamente prohibido el uso No autorizado Comercial y restribucion del diseño visual y la interfaz gráfica
+- del y/o el/los software(s) desarollador por nosotros como Empresa
+- y  como el  uso No autorizado del Codigo fuentes de las app , software , Pagina Web , o cualquier otro servicio,Images,
+- 
+-  y derivados para la creación de proyectos alternos derivados o competidores.de nuestras Soluciones De negocios en caulquier categoria
+- Las mejoras , Respaldo tecnico , u otro Servicio esta incluido en el Costo del Software y sus Distintas Versiones por nuestro desarolladores
+- 
+- y  es Responsabilidad de Su correcto funcionamiento por la Empresa Prestante del servicio asociado de 3eros nunca lo podra ejecutar el Usuario y/o por el cliente 
+
+
+3. CANAL DE DISTRIBUCIÓN: Este software se distribuye exclusivamente a través de los canales oficiales del autor y/o Empresa en GitHub.
+4. Cualquier copia obtenida / Comprada /distribuida por otros medios  sitios / cualquier pagina(s) web u pagina(s)
+5. de Correos electronico, Redes sociales,incluidas sitios web  u otra formas incluyendo portable Discos Duros  Externos, Memorias , Disco Zip ,
+6.transferencia por Micropuntos (En todas las formas ) pendrive ,
+7. almacenaje en la Nube (Descargas) , Moviles , Tarjeta SD , , compartirlo por Redes Wifi / Bluetooth
+8. dentro o Fuera de Github se considera ilegal y Penada Por la Ley internacional de Derecho De autor .
+
+
+9. y Sensible a (un pago  Irrevocable  de fiel cumplimiento de la cantidad de 7.220.220.000.00 en Millones  De USD a leonardo Daza Blanco ,
+10.  desarollador del proyecto y dueño Legal de su creacion  el cual es el costo de todo el valor del proyecto Soft-360 )
+11.  
+12.  Su persona  ya sea como Persona Natural / Persona juridica
+13. ( No podra Asumir  legalmente algun  Derecho Legal De  adquisicion , traspaso de ningun tipo o Forma incluyendo el accionario ,
+14.  Tokens Empresariales u cualquier otro valor , o de compra Del proyecto ni De la Empresa antes Señalada
+15.  y esto No otorga derecho Legal sobre nuestro activos a su Persona  por el Pago Legal antes Descripto ) 
+16.  
+17.   asumira todos los Gastos Legales que ello Represente durante la ejecucion judicial de sentencia
+18.  en daños y perjuicios de derechos Legales sobre el y/o Los Software y/o app u otros productos por Nosotros desarollados 
+
+EL SOFTWARE SE PROPORCIONA "TAL CUAL", SIN GARANTÍA DE NINGÚN TIPO, EXPRESA O IMPLÍCITA. 
+EN NINGÚN CASO LOS AUTORES SERÁN RESPONSABLES DE NINGUNA RECLAMACIÓN, DAÑOS U OTRA RESPONSABILIDAD LEGALES.
+
+
+usted como Usuario Acepta de forma diliengia , e irrevocable 
+y Asume su compromiso de cumplir y aceptar  a Cabalidad Con este docomunto Legal Registrado por completo
+al usar cualquier producto y/o Servicios por nosotros ofrecido Legalmente y actuante de buena Fe 
+a no violar ninguna clausula ni garantia aca Señalada
 
 
 
