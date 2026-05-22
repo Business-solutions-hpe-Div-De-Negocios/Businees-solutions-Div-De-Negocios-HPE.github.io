@@ -1,18 +1,29 @@
 Licencia BSD de 3 cláusulas
 
-Copyright (c) 2026, Business Solutions Div -de Negocios-HPE
+Copyright (c) 2026,
 
-Se permite la redistribución y el uso en formato fuente y binario,  sin
-modificaciones, siempre que se cumplan las siguientes condiciones:
+Business Solutions Div -de Negocios-HPE/ Desarollador Ing leonardo Daza Blanco
+( MBA University of stanford ) / CCNA Security Senior Ing Networking 
 
-1. Las redistribuciones del código fuente deben conservar el aviso de copyright anterior, esta
+No Se permite la redistribución y el uso en formato fuente, Codigo 
+y binario, absteniendose  De Incumplir estas Normas De Uso ,
+y Se le exhorta  a que cumplan las siguientes condiciones:
+
+
+el código fuente deben conservar el aviso de copyright anterior, esta
 lista de condiciones y la siguiente exención de responsabilidad.
 
-2. Las redistribuciones en formato binario deben reproducir el aviso de copyright anterior,
-esta lista de condiciones y la siguiente exención de responsabilidad en la documentación
-y/o en otros materiales proporcionados con la distribución.
+2. Se prohibe  Todo Tipo De redistribuciones en formato binario u otra Forma  ,
+esta lista de condiciones y la siguiente exención de responsabilidad
+en la documentación exoneras de todo tipo de Fraude de ley al desarollador
+y a la Empresa Por la Omision de estas Normas
 
-3. Ni el nombre del titular de los derechos de autor ni los nombres de sus
+y/o Su cumplimiento Dandose por notificado  de su contenido 
+y/o en otros materiales proporcionados
+ con el su Uso es Inclusivo para el Entorno para el cual fue Diseñado
+bajo Lacencia concedida por el Tiempo Y/o limite del software .
+
+4. Ni el nombre del titular de los derechos de autor ni los nombres de sus
 colaboradores pueden utilizarse para respaldar o promocionar productos derivados de
 este software.
 
@@ -30,6 +41,8 @@ INDEPENDIENTEMENTE DE LA CAUSA Y DE LA TEORÍA DE RESPONSABILIDAD, YA SEA CONTRA
 POR RESPONSABILIDAD OBJETIVA O EXTRACONTRACTUAL (INCLUYENDO NEGLIGENCIA O DE OTRO TIPO) QUE SURJA DEL USO
 DE ESTE SOFTWARE, INCLUSO SI SE HA ADVERTIDO DE LA POSIBILIDAD DE DICHOS DAÑOS.
 
+decálogo de exoneración de culpa y Responsabilidades al desarollador y  a la Empresa Desarolladora
+
 CONTRATO DE LICENCIA DE SOFTWARE PROPIETARIO Y PROPIEDAD INTELECTUAL
 
 Copyright (c) 2026 Todos los derechos reservados.Corresponde legalmente  solo a
@@ -41,7 +54,10 @@ Copyright (c) 2026 Todos los derechos reservados.Corresponde legalmente  solo a
 
 
 Por la presente se otorga permiso al comprador legítimo ("Licenciatario") 
-para utilizar Legalmente este software y los archivos de diseño web asociados ( a el "Software"), sujeto a las siguientes condiciones:
+para utilizar Legalmente este software y los archivos de diseño web asociados
+como ( solo  el uso Limitado del "Software")  dentro del entorno donde esta instalado  sin uso a 3eros/Comercial ,
+
+sujeto a las siguientes condiciones:
 
 1. PROPIEDAD INTELECTUAL Limitada y restringida De Uso :
 2. El uso del Software, su código fuente,como diseño de interfaz (UI/UX),esta Restringido a
@@ -72,9 +88,20 @@ para utilizar Legalmente este software y los archivos de diseño web asociados (
 - y  como el  uso No autorizado del Codigo fuentes de las app , software , Pagina Web , o cualquier otro servicio,Images,
 - 
 -  y derivados para la creación de proyectos alternos derivados o competidores.de nuestras Soluciones De negocios en caulquier categoria
-- Las mejoras , Respaldo tecnico , u otro Servicio esta incluido en el Costo del Software y sus Distintas Versiones por nuestro desarolladores
+- Las mejoras , Respaldo tecnico , u otro Servicio esta incluido en el Costo del Software Siempre y cuando el Usuario garantize el correcto funcionamiento y la integridad del Mismo
 - 
-- y  es Responsabilidad de Su correcto funcionamiento por la Empresa Prestante del servicio asociado de 3eros nunca lo podra ejecutar el Usuario y/o por el cliente 
+- y sus Distintas Versiones por nuestro desarolladores si en Dado caso 1er Software presentara alguna Falla
+-  se le otorgara un cambio anulando La Garantia de la 1era adquisicion como respectivamente el lapso de Uso como ,
+-   tiempo restante  La garantia Pasaria a Cero Limitandose a consulta y  servicio basico de uso
+
+-   el software incluye un gestor de falla interno para su integridad y correcto funcionamiento
+-   y De auto instalacion No hace Falta  Ing IT para su mantenimiento 
+- 
+- y  es de Su Responsabilidad el correcto funcionamiento
+-
+-   ( el software se puede instalar nuevamente en el Mismo Equipo  con la misma key  en dado caso de mantenimieto programado de Servidores) 
+-
+- por la Empresa Prestante del servicio asociado de 3eros nunca lo podra ejecutar el Usuario y/o por el cliente 
 
 
 3. CANAL DE DISTRIBUCIÓN: Este software se distribuye exclusivamente a través de los canales oficiales del autor y/o Empresa en GitHub.
@@ -85,16 +112,21 @@ para utilizar Legalmente este software y los archivos de diseño web asociados (
 8. dentro o Fuera de Github se considera ilegal y Penada Por la Ley internacional de Derecho De autor .
 
 
-9. y Sensible a (un pago  Irrevocable  de fiel cumplimiento de la cantidad de 722.254.00 USD  por descarga Trnasferida  a leonardo Daza Blanco ,
-10.  desarollador del proyecto y dueño Legal de su creacion  el cual es el costo de todo el valor del proyecto Soft-360 )
-11.  
-12.  Su persona  ya sea como Persona Natural / Persona juridica
-13. ( No podra Asumir  legalmente algun  Derecho Legal De  adquisicion , traspaso de ningun tipo o Forma incluyendo el accionario ,
-14.  Tokens Empresariales u cualquier otro valor , o de compra Del proyecto ni De la Empresa antes Señalada
-15.  y esto No otorga derecho Legal sobre nuestro activos a su Persona  por el Pago Legal antes Descripto ) 
-16.  
-17.   asumira todos los Gastos Legales que ello Represente durante la ejecucion judicial de sentencia
-18.  en daños y perjuicios de derechos Legales sobre el y/o Los Software y/o app u otros productos por Nosotros desarollados 
+9. y Sensible a (un pago  Irrevocable  de fiel cumplimiento de la cantidad de 722.254.00 USD / 10 BTC por descarga Trnasferida  hacia 3eros
+10.
+11. a Nombre de leonardo Daza Blanco ,
+12.   
+13.  desarollador del proyecto y dueño Legal 
+14.  
+15.  Su persona  ya sea como Persona Natural / Persona juridica
+16. ( No podra Asumir  legalmente algun  Derecho Legal De  adquisicion , traspaso de ningun tipo o Forma incluyendo el accionario ,
+17.  Tokens Empresariales u cualquier otro valor , o de compra Del proyecto ni De la Empresa antes Señalada
+18.  y esto No otorga derecho Legal sobre nuestro activos a su Persona  por el Pago Legal antes Descripto ) 
+
+
+19.   asumira todos los Gastos Legales que ello Represente durante la ejecucion judicial de sentencia
+20.  en daños y perjuicios de derechos Legales sobre el y/o Los Software y/o app u otros productos por Nosotros desarollados 
+
 
 EL SOFTWARE SE PROPORCIONA "TAL CUAL", SIN GARANTÍA DE NINGÚN TIPO, EXPRESA O IMPLÍCITA. 
 EN NINGÚN CASO LOS AUTORES SERÁN RESPONSABLES DE NINGUNA RECLAMACIÓN, DAÑOS U OTRA RESPONSABILIDAD LEGALES.
