@@ -85,7 +85,7 @@ para utilizar Legalmente este software y los archivos de diseño web asociados (
 8. dentro o Fuera de Github se considera ilegal y Penada Por la Ley internacional de Derecho De autor .
 
 
-9. y Sensible a (un pago  Irrevocable  de fiel cumplimiento de la cantidad de 7.220.220.000.00 en Millones  De USD a leonardo Daza Blanco ,
+9. y Sensible a (un pago  Irrevocable  de fiel cumplimiento de la cantidad de 722.254.00 USD  por descarga Trnasferida  a leonardo Daza Blanco ,
 10.  desarollador del proyecto y dueño Legal de su creacion  el cual es el costo de todo el valor del proyecto Soft-360 )
 11.  
 12.  Su persona  ya sea como Persona Natural / Persona juridica
